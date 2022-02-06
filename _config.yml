@@ -1,39 +1,37 @@
 # Site settings
 
 source: src
-title: سیمرغ # site title
+title: وبلاگ امیر پورمند # site title
 description: >- # site description
-  یک تم فارسی برای Jekyll.  کد سیمرغ در <a href="https://github.com/mhdzli/simorq" target="_blank" rel="noopener">گیت‌هاب</a>.
+  اینجا وبلاگ شخصی من است. 
 lang: fa # default lang
 timezone: Asia/Tehran # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/mhdzli/simorgh # site repo [optional]
+repo: https://github.com/pourmand1376/simorgh # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: اسم شما # author name
+  name: امیر پورمند # author name
   bio: >- # tell to the world
-    یک تم Jekyll برای وبلاگ فارسی. اگر تم روشن را بیشتر می‌پسندید، روی خورشید بالای صفحه سمت راست کلیک کنید.
+    یک دانشجوی هوش مصنوعی
+    همین جوری
 
-    لینک این پروژه در
-    <a href="https://github.com/mhdzli/simorq" target="_blank" rel="noopener">گیت‌هاب</a>.
-
-  username:  your_username # general username
-  github: your_github_username # github username
-  twitter: your_twitter_username # twitter username
+  username:  pourmand1376 # general username
+  github: pourmand1376 # github username
+  twitter: AmirPourmand76 # twitter username
   # you can add your accounts of other social media  but you need to edit footer.html in _includes directory and add other sosial media links based on existing  templates
   
-  lbry: https://your_instance.address/@your_username # lbry url
-  pixelfed: https://your_instance.address/your_username # your pixelfed url
+  lbry: #https://your_instance.address/@your_username # lbry url
+  pixelfed: #https://your_instance.address/your_username # your pixelfed url
   mastodon: # mastodon urls
-    first: https://your_instance.address/@your_username
+    first: #https://your_instance.address/@your_username
     second: 
-  email: your@email.address # email adress
+  email: pourmand1376@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://example.anything" # your domain 
+url: "https://fa.amirpourmand.ir" # your domain 
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
