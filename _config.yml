@@ -1,7 +1,7 @@
 # Site settings
 
 source: src
-title: وبلاگ امیر پورمند # site title
+title: وبلاگ شخصی من # site title
 description: >- # site description
   اینجا وبلاگ شخصی من است. 
 lang: fa # default lang
@@ -15,7 +15,6 @@ author:
   name: امیر پورمند # author name
   bio: >- # tell to the world
     یک دانشجوی هوش مصنوعی
-    همین جوری
 
   username:  pourmand1376 # general username
   github: pourmand1376 # github username
@@ -31,7 +30,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://fa.amirpourmand.ir" # your domain 
+url: "https://blog.amirpourmand.ir" # your domain 
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
