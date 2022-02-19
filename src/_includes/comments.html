@@ -14,13 +14,14 @@
  <script type="text/javascript">
  
    /* - - - CONFIGURATION VARIABLES - - - */
- 
+   let hash = window.btoa('{{page.title}}');
    var __semio__params = {
      graphcommentId: "blog-pourmand", // make sure the id is yours
  
      behaviour: {
        // HIGHLY RECOMMENDED
        //  uid: "...", // uniq identifer for the comments thread on your page (ex: your page id)
+       uid: hash,
      },
  
      // configure your variables here
