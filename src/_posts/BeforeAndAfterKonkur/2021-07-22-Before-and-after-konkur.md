@@ -5,6 +5,7 @@ date: 2021-07-22 00:00:00 +03:30
 tags: [کنکور ارشد، توصیه]
 description:  
 image: "/BeforeAndAfterKonkur/exam.jpeg"
+comments: true
 ---
 
 
