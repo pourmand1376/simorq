@@ -5,6 +5,7 @@ date: 2021-07-22 00:00:00 +03:30
 tags: [دانلود کتاب و مقاله]
 description:  روش دانلود سرراست و مستقیم تقریبا همه مقالات و کتاب‌ها
 image: "/DownloadBooks/book.jpeg"
+comments: true
 ---
 
 
@@ -28,15 +29,20 @@ image: "/DownloadBooks/book.jpeg"
 
 مثلا فرض کنید میخوایم DOI مقاله
 
-A survey on deep learning for big data
+
+> A survey on deep learning for big data
+
 
 رو پیدا کنیم. اسمش رو تو جناب گوگل سرچ میکنیم و سایت الزویر میاد. یه جایی تو صفحه اگر دقت کنید همچین ادرسی هست:
 
-https://doi.org/my-doi
+
+> https://doi.org/my-doi
+
 
 مثلا:
 
-https://doi.org/10.1016/j.inffus.2017.10.006
+> https://doi.org/10.1016/j.inffus.2017.10.006
+
 
 که به قسمت دوم ادرس میگیم DOI.
 
@@ -50,7 +56,9 @@ https://doi.org/10.1016/j.inffus.2017.10.006
 
 میتونید به سادگی doi مقاله رو به اخر ادرسش بچسبونید و دانلود کنید. اینجوری:
 
-https://sci-hub.se/my-doi
+
+> https://sci-hub.se/my-doi
+
 
 #### راه سوم
 
