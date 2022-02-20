@@ -33,7 +33,7 @@ author:
 url: "https://aprd.ir" # your domain 
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: UA-199451648-3 # leave it blank if not wish
 fb_appid:
 
 # Collection setting
