@@ -1,9 +1,9 @@
 # Site settings
 
 source: src
-title: وبلاگ شخصی من # site title
+title: گاه‌نوشته‌های امیر پورمند # site title
 description: >- # site description
-  اینجا وبلاگ شخصی من است. 
+  یک وبلاگ. 
 lang: fa # default lang
 timezone: Asia/Tehran # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
