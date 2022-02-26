@@ -54,6 +54,7 @@ defaults:
     values:
       layout: post
       comments: false
+      sitemap: false
 
 # Jekyll Compose default front matter
 jekyll_compose:
@@ -98,3 +99,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-postfiles
   - jekyll-jalali
+  - jekyll-target-blank
