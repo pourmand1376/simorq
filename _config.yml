@@ -3,7 +3,7 @@
 source: src
 title: گاه‌نوشته‌های امیر پورمند # site title
 description: >- # site description
-  یک وبلاگ. 
+  روزنوشته‌های امیر پورمند - یک دانشجوی هوش مصنوعی 
 lang: fa # default lang
 timezone: Asia/Tehran # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -14,8 +14,8 @@ mode: light # default theme "dark" | "light"
 author:
   name: امیر پورمند # author name
   bio: >- # tell to the world
-    یک دانشجوی هوش مصنوعی
-
+    یک دانشجوی هوش مصنوعی 
+    <p>(<a href="https://amirpourmand.ir/" target="_blank">وب‌سایت انگلیسی</a>)</p>
   username:  pourmand1376 # general username
   github: pourmand1376 # github username
   twitter: AmirPourmand76 # twitter username
