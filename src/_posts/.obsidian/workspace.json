@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "aa7130c6572f744b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fa2c63c2a5660ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18da42d6c98c71da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LoginSharif/2022-10-24-Login-Sharif.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a804d8eceda4f956",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfa7233ea21cf170",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecefb6eeb4c5ded6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87d21ebe87d02530",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69e0ffb1118ca92f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "281fc21c74ad0b45",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fc7d44086df6e79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "538e9d73e7255e3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LoginSharif/2022-10-24-Login-Sharif.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b2505b8d8888622",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LoginSharif/2022-10-24-Login-Sharif.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41515891c11eb22c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19e2774f9be973a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LoginSharif/2022-10-24-Login-Sharif.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "18da42d6c98c71da",
+  "lastOpenFiles": [
+    "().md",
+    "LoginSharif/2022-10-24-Login-Sharif.md",
+    "Questions/2022-09-16-questions-olympiad-konkur.md",
+    "TOEFL/2021-12-08-toefl-exam-experience.md",
+    "Olympiad/2021-05-31-olympiad-computer-engineering.md"
+  ]
+}

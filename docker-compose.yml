@@ -5,8 +5,8 @@ services:
     image: amirpourmand/simorq
     command: bash -c "
       rm -f Gemfile.lock
-      && bundler exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose"
+      && bundler exec jekyll serve --watch --port=7070 --host=0.0.0.0 --livereload --verbose"
     ports:
-      - 8080:8080
+      - 7070:7070
     volumes:
       - .:/srv/jekyll
